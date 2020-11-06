@@ -3,7 +3,8 @@
 
 
 ## Tech Stack
-![react badge](https://img.shields.io/badge/React-v16.13.1-5EB9D2) ![Node badge](https://img.shields.io/badge/Node.js-v12.18.1-brightgreen) ![koa_badge](https://img.shields.io/badge/Koa-v2.13.0-lightgrey)
+![react badge](https://img.shields.io/badge/React-v16.13.1-5EB9D2) ![Node badge](https://img.shields.io/badge/Node.js-v12.18.1-brightgreen) 
+![koa_badge](https://img.shields.io/badge/Koa-v2.13.0-lightgrey)
 
 
 ## Feature List
