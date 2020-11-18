@@ -1,4 +1,5 @@
 # Speech_N_Subtitle
+Tool for speech deep-learning
 ( code is private )
 
 
