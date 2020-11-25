@@ -9,7 +9,7 @@ Tool for speech deep-learning
 ![koa_badge](https://img.shields.io/badge/Koa-v2.13.0-lightgrey)
 
 ## Demo
-<strike>temp 1</strike>
+### <strike>temp 1</strike>
 ![demo gif](https://user-images.githubusercontent.com/42796949/99486779-38da3080-29a8-11eb-88db-43867428c585.gif)
 
 
