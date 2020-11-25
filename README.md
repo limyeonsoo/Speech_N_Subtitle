@@ -10,7 +10,9 @@ Tool for speech deep-learning
 
 ## Demo
 ### <strike>temp 1</strike>
-![demo gif](https://user-images.githubusercontent.com/42796949/99486779-38da3080-29a8-11eb-88db-43867428c585.gif)
+![demo gif](https://user-images.githubusercontent.com/42796949/99486779-38da3080-29a8-11eb-88db-43867428c585.gif) ### temp 2 
+![demo2 gif](https://user-images.githubusercontent.com/42796949/100239193-71fc3d00-2f74-11eb-972a-4521abc3492c.gif)
+
 
 
 ## Feature List
