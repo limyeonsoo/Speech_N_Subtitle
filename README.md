@@ -25,3 +25,10 @@ https://docs.google.com/spreadsheets/d/1QhM4qi1Ota5WjshPBWIc3qu_3ty5XuQ8WK4ceZ1G
 
 ## DB Squema
 ![DB_squema](https://user-images.githubusercontent.com/42796949/100113507-ba075b00-2eb3-11eb-8cc9-510dc92cff00.PNG)
+
+## Diary
+https://www.notion.so/History-d40fc920cd2a45cd96e87def93d14a0e
+
+
+## Error Solve
+https://www.notion.so/ERROR-9963287d9363450c9e31125eb638d88a
