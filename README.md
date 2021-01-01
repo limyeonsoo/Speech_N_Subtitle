@@ -18,8 +18,10 @@ Tool for speech deep-learning
 
 ## Component
 <img width="1180" alt="component png" src="https://user-images.githubusercontent.com/42796949/101162992-73b1b900-3676-11eb-90e2-2476784743a9.png">
+
 ## StreamingBar
 ![StreamingBar](https://user-images.githubusercontent.com/42796949/103434705-70472880-4c48-11eb-94e8-2af1b0dd6477.png)
+
 ## Merge & Split
 ![MergeSplit](https://user-images.githubusercontent.com/42796949/103434706-71785580-4c48-11eb-9115-e3d1a2989dd4.png)
 
