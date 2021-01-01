@@ -39,6 +39,9 @@ https://www.notion.so/ERROR-9963287d9363450c9e31125eb638d88a
 ## Component
 <img width="1180" alt="component png" src="https://user-images.githubusercontent.com/42796949/101162992-73b1b900-3676-11eb-90e2-2476784743a9.png">
 
+## MenuBar
+![MenuBar](https://user-images.githubusercontent.com/42796949/103434836-1182ae80-4c4a-11eb-9102-0408c97c3268.png)
+
 ## StreamingBar
 ![StreamingBar](https://user-images.githubusercontent.com/42796949/103434705-70472880-4c48-11eb-94e8-2af1b0dd6477.png)
 
