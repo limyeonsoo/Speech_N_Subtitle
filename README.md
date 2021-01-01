@@ -16,14 +16,6 @@ Tool for speech deep-learning
 ### temp 3
 ![demo3 gif](https://user-images.githubusercontent.com/42796949/101162839-2e8d8700-3676-11eb-9340-af092374e059.gif)
 
-## Component
-<img width="1180" alt="component png" src="https://user-images.githubusercontent.com/42796949/101162992-73b1b900-3676-11eb-90e2-2476784743a9.png">
-
-## StreamingBar
-![StreamingBar](https://user-images.githubusercontent.com/42796949/103434705-70472880-4c48-11eb-94e8-2af1b0dd6477.png)
-
-## Merge & Split
-![MergeSplit](https://user-images.githubusercontent.com/42796949/103434706-71785580-4c48-11eb-9115-e3d1a2989dd4.png)
 
 ## Feature List
 https://docs.google.com/spreadsheets/d/1QhM4qi1Ota5WjshPBWIc3qu_3ty5XuQ8WK4ceZ1GAOU/edit?usp=sharing
@@ -31,6 +23,7 @@ https://docs.google.com/spreadsheets/d/1QhM4qi1Ota5WjshPBWIc3qu_3ty5XuQ8WK4ceZ1G
 
 ## API
 https://documenter.getpostman.com/view/14032409/TVt19kEN
+
 
 ## DB Squema
 ![DB_squema](https://user-images.githubusercontent.com/42796949/100113507-ba075b00-2eb3-11eb-8cc9-510dc92cff00.PNG)
@@ -41,3 +34,13 @@ https://www.notion.so/History-d40fc920cd2a45cd96e87def93d14a0e
 
 ## Error Solve
 https://www.notion.so/ERROR-9963287d9363450c9e31125eb638d88a
+
+
+## Component
+<img width="1180" alt="component png" src="https://user-images.githubusercontent.com/42796949/101162992-73b1b900-3676-11eb-90e2-2476784743a9.png">
+
+## StreamingBar
+![StreamingBar](https://user-images.githubusercontent.com/42796949/103434705-70472880-4c48-11eb-94e8-2af1b0dd6477.png)
+
+## Merge & Split
+![MergeSplit](https://user-images.githubusercontent.com/42796949/103434706-71785580-4c48-11eb-9115-e3d1a2989dd4.png)
