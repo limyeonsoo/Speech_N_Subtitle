@@ -9,6 +9,8 @@ Tool for speech deep-learning
 ![koa_badge](https://img.shields.io/badge/Koa-v2.13.0-lightgrey)
 
 fs.rmSync : Added in:v14.14.0
+![ncloud badge](https://img.shields.io/badge/Deploy-Ncloud-blueviolet) ![process_badge](https://img.shields.io/badge/Process-PM2-blueviolet) ![OS_badge](https://img.shields.io/badge/OS-Linux-blueviolet)
+
 
 ## 📺Demo
 ### <strike>temp 1</strike>
