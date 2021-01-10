@@ -8,8 +8,10 @@ Tool for speech deep-learning
 ![react badge](https://img.shields.io/badge/React-v16.13.1-5EB9D2) ![Node badge](https://img.shields.io/badge/Node.js-v14.15.1-brightgreen) 
 ![koa_badge](https://img.shields.io/badge/Koa-v2.13.0-lightgrey)
 
-fs.rmSync : Added in:v14.14.0
 ![ncloud badge](https://img.shields.io/badge/Deploy-Ncloud-blueviolet) ![process_badge](https://img.shields.io/badge/Process-PM2-blueviolet) ![OS_badge](https://img.shields.io/badge/OS-Linux-blueviolet)
+
+fs.rmSync : Added in:v14.14.0
+
 
 
 ## 📺Demo
