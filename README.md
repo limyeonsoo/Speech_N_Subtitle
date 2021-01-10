@@ -36,8 +36,7 @@ https://www.notion.so/History-d40fc920cd2a45cd96e87def93d14a0e
 https://www.notion.so/ERROR-9963287d9363450c9e31125eb638d88a
 
 
-
-
+<br/><br/>
 ## Component
 <img width="1180" alt="component png" src="https://user-images.githubusercontent.com/42796949/101162992-73b1b900-3676-11eb-90e2-2476784743a9.png">
 
