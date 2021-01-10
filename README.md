@@ -5,8 +5,9 @@ Tool for speech deep-learning
 ( code is private )
 
 ## ✔️Tech Stack
-![react badge](https://img.shields.io/badge/React-v16.13.1-5EB9D2) ![Node badge](https://img.shields.io/badge/Node.js-v12.18.1-brightgreen) 
+![react badge](https://img.shields.io/badge/React-v16.13.1-5EB9D2) ![Node badge](https://img.shields.io/badge/Node.js-v14.15.1-brightgreen) 
 ![koa_badge](https://img.shields.io/badge/Koa-v2.13.0-lightgrey)
+fs.rmSync : Added in:v14.14.0
 
 ## 📺Demo
 ### <strike>temp 1</strike>
