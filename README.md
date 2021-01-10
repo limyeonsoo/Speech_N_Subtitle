@@ -15,8 +15,8 @@ Tool for speech deep-learning
 ### temp 3
 ![demo3 gif](https://user-images.githubusercontent.com/42796949/101162839-2e8d8700-3676-11eb-9340-af092374e059.gif)
 ### Merge & Split
-![merge gif](https://user-images.githubusercontent.com/42796949/104128159-46f56d80-53a9-11eb-9daf-e9aa82e8aea8.gif){: width="48%" height="48%"}
-![split gif](https://user-images.githubusercontent.com/42796949/104128193-773d0c00-53a9-11eb-90af-119beda92fbf.gif){: width="48%" height="48%"}
+![merge gif](https://user-images.githubusercontent.com/42796949/104128159-46f56d80-53a9-11eb-9daf-e9aa82e8aea8.gif width="48%" height="48%")
+![split gif](https://user-images.githubusercontent.com/42796949/104128193-773d0c00-53a9-11eb-90af-119beda92fbf.gif width="48%" height="48%")
 
 ## 📜Feature List
 https://docs.google.com/spreadsheets/d/1QhM4qi1Ota5WjshPBWIc3qu_3ty5XuQ8WK4ceZ1GAOU/edit?usp=sharing
